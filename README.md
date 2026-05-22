@@ -22,7 +22,7 @@ This repository is clean, dependency-free (using `.gitignore`), and ready for te
 ## 📁 Folder Structure
 
 ```
-zidio-project/
+Excel-Analytics/
 │
 ├── frontend/
 │   ├── public/
@@ -149,6 +149,6 @@ GitHub → Repository → Settings → Collaborators → Add people
 
 ## 📌 Author
 
-**Nihil Kaarthikeyan**  
+**Aryan Raj**  
 Full-stack developer
 
